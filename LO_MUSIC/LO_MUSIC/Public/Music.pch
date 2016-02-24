@@ -1,0 +1,17 @@
+//
+//  Music.pch
+//  LO_MUSIC
+//
+//  Created by 陈健 on 16/2/24.
+//  Copyright © 2016年 CJ. All rights reserved.
+//
+
+#ifndef Music_pch
+#define Music_pch
+
+//屏幕的宽度
+//屏幕的高度
+//十六进制的颜色
+//debug模式下的打印
+
+#endif /* Music_pch */
